@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\bin\Debug\DatabaseModel.mdf
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\bin\Debug\DatabaseModel_log.ldf
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\bin\Debug\Arquivo_Importacao.csv
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\bin\Debug\ConsoleText.exe.config
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\bin\Debug\ConsoleText.exe
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\bin\Debug\ConsoleText.pdb
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\obj\Debug\ConsoleText.exe
+C:\Users\Usuario\Desktop\TestePraticoSolution\ConsoleText\obj\Debug\ConsoleText.pdb
